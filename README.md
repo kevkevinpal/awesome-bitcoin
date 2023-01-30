@@ -9,11 +9,11 @@ https://github.com/bitcoin-core/secp256k1
 ## Lightning Related projects
 
 ### Lightning Implementations I've played a lil with
-LND
-(Core-Lighting)[https://github.com/ElementsProject/lightning]
+[LND](https://github.com/lightningnetwork/lnd)
+[Core-Lighting](https://github.com/ElementsProject/lightning)
 
 ### Sphinx Related Projects
-Sphinx-relay (core part of sphinx)
+[Sphinx-relay (core part of sphinx)](https://github.com/stakwork/sphinx-relay)
 Sphinx-tribes
 Sphinx-Kotlin
 Sphinx-Ios
