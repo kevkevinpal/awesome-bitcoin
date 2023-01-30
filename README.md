@@ -2,8 +2,8 @@
 Just a bunch of bitcoin stuff I think is cool
 
 ## List of Bitcoin Projects
-https://github.com/bitcoin/bitcoin
-https://github.com/bitcoin-core/secp256k1
+[Bitcoin Core](https://github.com/bitcoin/bitcoin) </br>
+[secp256k1](https://github.com/bitcoin-core/secp256k1) </br>
 
 
 ## Lightning Related projects
