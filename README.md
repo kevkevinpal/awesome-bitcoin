@@ -5,7 +5,14 @@ Just a bunch of bitcoin stuff I think is cool
 https://github.com/bitcoin/bitcoin
 https://github.com/bitcoin-core/secp256k1
 
-## Sphinx Related Projects
+
+## Lightning Related projects
+
+### Lightning Implementations I've played a lil with
+LND
+(Core-Lighting)[https://github.com/ElementsProject/lightning]
+
+### Sphinx Related Projects
 Sphinx-relay (core part of sphinx)
 Sphinx-tribes
 Sphinx-Kotlin
